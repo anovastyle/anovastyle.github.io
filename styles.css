@@ -1,0 +1,16 @@
+/* Anova Website Style Guide*/
+body {
+    background-color: F5F5F5;
+}
+h1 {
+    color: #FF8B01;
+    font-family: "proxima-nova",sans-serif;
+    font-style: normal;
+    font-weight: 300;
+}
+p {
+    color: #646464; 
+    font-family: "proxima-nova",sans-serif;
+    font-style: normal;
+    font-weight: 400;
+}
