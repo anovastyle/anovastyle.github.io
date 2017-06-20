@@ -8,6 +8,7 @@ h1 {
     font-style: normal;
     font-weight: 300;
 }
+
 p {
     color: #646464; 
     font-family: "proxima-nova",sans-serif;
@@ -16,6 +17,7 @@ p {
 }
 
 /* ---------- Containers ---------- */
+
 body {
     background-color: #F5F5F5;
 }
