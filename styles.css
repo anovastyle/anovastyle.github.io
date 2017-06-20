@@ -3,7 +3,7 @@
 /* ---------- Typography ---------- */
 
 h1 {
-    color: #FF8B01;
+    color: #646464;
     font-family: "proxima-nova",sans-serif;
     font-style: normal;
     font-weight: 300;
@@ -16,30 +16,42 @@ p {
     font-weight: 400;
 }
 
+.title {
+	font-size: 50px;
+    color: #FF8B01;
+	line-height: 1;
+    word-wrap: break-word;
+    text-rendering: optimizeLegibility;
+    margin-top: 0.2rem;
+    margin-bottom: 0.5rem;
+}
+
 /* ---------- Containers ---------- */
 
 body {
     background-color: #F5F5F5;
 }
 
-.parent {	display: block;
-			max-width: 960px;
-			margin: auto;  
-			padding: 10px;
-			border: 3px solid #FF8B01; }
+.parent {
+	display: block;
+	max-width: 960px;
+	margin: auto;  
+	padding: 10px;
+	border: 1px solid #D8D8D8;
+}
 
 .leftdiv {
 	display: inline-block;
     width: 46%;
 	float: left;
 	padding: 10px;
-	border: 3px solid #D8D8D8;
+	border: 1px solid #D8D8D8;
 }
 
 .rightdiv {
 	display: block;
 	margin-left: 52%;
 	padding: 10px;
-	border: 3px solid #D8D8D8;
+	border: 1px solid #D8D8D8;
 }
 
