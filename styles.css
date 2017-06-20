@@ -27,10 +27,18 @@ p {
     margin-bottom: 0.5rem;
 }
 
+.code {
+	color: #D8D8D8;
+	font-family: "inconsolata",monospace;
+	font-style: normal;
+	font-weight: 500;
+}
+
 /* ---------- Containers ---------- */
 
 body {
     background-color: #F5F5F5;
+    margin: 30px;
 }
 
 .parent {
