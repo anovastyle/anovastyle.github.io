@@ -1,2 +1,2 @@
 # anovastyle.github.io
-Anova Living Style Guide
+Anova Slow-Drip Style Guide
