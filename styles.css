@@ -14,7 +14,7 @@ p {
     font-family: "proxima-nova",sans-serif;
     font-style: normal;
     font-weight: 400;
-    max-width: 360px;
+    max-width: 50%;
 }
 
 .title {
