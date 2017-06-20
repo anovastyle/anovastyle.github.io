@@ -31,7 +31,7 @@ body {
         
 .item {  display: inline-block;
            margin: 20px;  padding: 10px;
-           border: 1px solid #D8D8D8; }
+           border: 3px solid #D8D8D8; }
            
 .bottom {  display: block;
            margin: 0px;  padding: 0px;
