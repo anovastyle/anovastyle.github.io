@@ -27,15 +27,14 @@ body {
            border: 3px solid #FF8B01; }
 
 .leftdiv {
-	display: inline-block
+	display: inline-block;
     width: 40%;
 	float: left;
 	border: 3px solid #D8D8D8;
 }
 
 .rightdiv {
-	display: block
-    width: 200px;
+	display: block;
 	margin-right: 20px;
 	margin-left: 45%;
 	border: 3px solid #D8D8D8;
