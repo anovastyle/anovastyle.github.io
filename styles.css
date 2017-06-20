@@ -28,10 +28,11 @@ p {
 }
 
 .code {
-	color: #D8D8D8;
+	color: #959595;
 	font-family: "inconsolata",monospace;
 	font-style: normal;
 	font-weight: 500;
+	line-height: 1.5;
 }
 
 /* ---------- Containers ---------- */
