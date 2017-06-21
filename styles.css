@@ -9,6 +9,20 @@ h1 {
     font-weight: 300;
 }
 
+h2 {
+    color: #646464;
+    font-family: "proxima-nova",sans-serif;
+    font-style: normal;
+    font-weight: 300;
+}
+
+h3 {
+    color: #646464;
+    font-family: "proxima-nova",sans-serif;
+    font-style: normal;
+    font-weight: 300;
+}
+
 p {
     color: #646464; 
     font-family: "proxima-nova",sans-serif;
