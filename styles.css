@@ -36,6 +36,18 @@ h4 {
     margin-bottom: 0.5rem;
 }
 
+h5 {
+    color: #5a5c5b;
+    font-family: "proxima-nova",sans-serif;
+    font-style: normal;
+    font-weight: 300;
+    font-size: 1.125rem;
+    line-height: 1.4;
+    text-rendering: optimizeLegibility;
+    margin-top: 0.2rem;
+    margin-bottom: 0.5rem;
+}
+
 p {
     color: #646464; 
     font-family: "proxima-nova",sans-serif;
