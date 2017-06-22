@@ -22,6 +22,10 @@ h3 {
     font-style: normal;
     font-weight: 300;
     font-size: 1.6875rem;
+    line-height: 1.4;
+    text-rendering: optimizeLegibility;
+    margin-top: 0.2rem;
+    margin-bottom: 0.5rem;
 }
 
 h4 {
