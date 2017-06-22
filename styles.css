@@ -47,6 +47,16 @@ h5 {
     margin-top: 0.2rem;
     margin-bottom: 0.5rem;
 }
+h6 {
+    color: #646464;
+    font-family: "proxima-nova",sans-serif;
+    font-style: normal;
+    font-weight: 300;
+    font-size: 1rem;
+    line-height: 1.4;
+    text-rendering: optimizeLegibility;
+}
+
 
 p {
     color: #646464; 
